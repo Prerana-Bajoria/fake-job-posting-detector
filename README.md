@@ -48,6 +48,14 @@ Key Insight
 
 Fake job postings tend to have no company logo, shorter descriptions, no screening questions, and rely on vague buzzwords - signals that are both statistically significant and intuitively explainable.
 
+## Dataset Setup
+The dataset is not included in this repository due to size constraints.
+
+To download it:
+1. Go to [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
+2. Download `fake_job_postings.csv`
+3. Place it in the root directory of this project
+
 Tech Stack
 
 Language: Python
