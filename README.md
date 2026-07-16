@@ -62,7 +62,7 @@ Language: Python
 Libraries: Pandas, Scikit-learn, XGBoost, SHAP, NLTK, Imbalanced-learn, Matplotlib, SciPy
 
 How to Run
-bashgit clone https://github.com/Prerana-Bajoria/fake-job-detector
+bash git clone https://github.com/Prerana-Bajoria/fake-job-posting-detector
 cd fake-job-detector
 pip install -r requirements.txt
 jupyter notebook fake_job_detection.ipynb
